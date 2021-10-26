@@ -7,13 +7,13 @@
 }
 .ping
 {
-    margin: 20px 30px 20px 90px;
+    margin: 20px 30px 20px 120px;
    
 }
 .we
 {
     font-family: 'Libre Franklin', sans-serif;
-    margin-left:50px;
+    margin-left:60px;
     font-size: 20px;
     font-weight: lighter;
    color : hsl(0, 0%, 59%);
@@ -26,7 +26,7 @@ span
     font-family: 'Libre Franklin', sans-serif;
 }
 p{
-    margin-left: 65px;
+    margin-left: 80px;
     margin-top:10px;
     font-weight: lighter;
     font-size: 14px;
@@ -42,13 +42,14 @@ p{
    font-size: 10px;
    text-align: left;
    padding-left: 20px;
+  
    display: block;
    margin-left: auto;
    margin-right: auto;
    margin-bottom: 10px;
    cursor: pointer;
    width:250px;
-   height:30px;
+   height:35px;
    color: hsl(223, 87%, 63%);
    border: 1px solid  hsl(223, 87%, 63%);
 }
@@ -68,7 +69,7 @@ p{
     margin-bottom: 10px;
     cursor: pointer;
     width:250px;
-    height:30px;
+    height:35px;
     color:white;
     border: 1px solid  hsl(223, 87%, 63%);
     background-color: hsl(223, 87%, 63%);
@@ -79,7 +80,7 @@ p{
     height: 40vh;
 }
 .fa-facebook-f{
-    margin-top:20px;
+     margin-top:20px; 
     margin-left:100px;
     border-radius: 100%;
     border:1px solid  hsl(223, 87%, 63%);
